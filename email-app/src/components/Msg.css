@@ -1,0 +1,29 @@
+.mail_msg{
+    border: 2px solid #cfd2dc;
+    display: flex;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+.mail_msg:hover{
+    cursor: pointer;
+}
+.mail_msg p{
+    margin: 6px 0;
+    color: #636363;
+}
+.logo{
+    background-color: #E54065;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #fff;
+}
+.msg_content{
+    margin-left: 30px;
+}
